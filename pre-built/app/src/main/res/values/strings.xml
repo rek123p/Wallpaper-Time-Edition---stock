@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wallpaper Time Edition</string>
+    <string name="set_wallpaper_button">Set wallpaper</string>
+    <string name="wallpaper_description">A flying digital clock live wallpaper</string>
+    <string name="wallpaper_chooser_not_found">Could not find the live wallpaper chooser on this device</string>
+
+    <string name="settings_language_label">Language</string>
+    <string name="settings_language_system">System default</string>
+    <string name="settings_language_en">English</string>
+    <string name="settings_language_pl">Polski</string>
+
+    <string name="settings_format_label">Time format</string>
+    <string name="settings_format_24h">24-hour (14:30)</string>
+    <string name="settings_format_12h">12-hour (2:30 PM)</string>
+</resources>
