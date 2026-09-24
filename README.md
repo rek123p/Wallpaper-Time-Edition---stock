@@ -34,4 +34,4 @@ Kotlin (Canvas 2D), package `com.rek123p.walltimeedition`.
 
 ## License
 
-(add your preferred license here)
+No license - all rights reserved. This repository is public for viewing only; the code is not licensed for reuse, modification, or redistribution.
