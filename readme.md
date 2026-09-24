@@ -34,4 +34,4 @@ Kotlin (Canvas 2D), package `com.rek123p.walltimeedition`.
 
 ## License
 
-No license - all rights reserved. This repository is public for viewing only; the code is not licensed for reuse, modification, or redistribution.
+PolyForm Noncommercial 1.0.0 - free to use, modify, and redistribute for any noncommercial purpose. Commercial use (including selling it, or a modified version of it) is not permitted.
