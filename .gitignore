@@ -14,6 +14,8 @@ captures/
 .cxx/
 *.aab
 *.apk
+# Excluding folder after-built for release versions of .apk
+!after-built/*.apk
 output-metadata.json
 
 # IntelliJ
